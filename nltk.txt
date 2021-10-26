@@ -1,5 +1,3 @@
 wordnet
-porter_test
+pros_cons
 reuters
-stopwords
-punkt
